@@ -1,0 +1,60 @@
+html {
+    background-color: black;
+}
+ 
+* {
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    background-color: black;
+    margin: 10vh 0px;
+    
+}
+
+nav a {
+     background-color: black;
+     width: 10;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+}
+
+.box {
+       background-color: white;
+    display: inline-block;
+   width : 30%; 
+   height: 30vh; 
+}
+
+p {
+    /* display; inline-block; */
+    display: inline-block;
+    width : 69%; 
+    vertical-align: top;
+}
+section {
+     background-color: BLACK;
+    min-height: 50vh;
+    margin: 5vh auto;
+    width: 70%;   
+   color: white;
+}
+
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+.wrap{
+display: flex; 
+}
+
+h1 {
+    display: block;
+    width:100; 
+}
+
+footer {
+     background-color: navy
+}
+a{
+    
+}
